@@ -1,1 +1,2 @@
 # SMS-Spam-Detection
+Abstract : This project focuses on developing a spam detection system using machine learning. By training a Naive Bayes classifier on SMS data labeled as spam or non-spam, the model effectively learns to identify unwanted messages. Text processing techniques like CountVectorizer are used to convert messages into features for training. The system achieves high accuracy and demonstrates the potential of machine learning in automating spam filtering

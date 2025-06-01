@@ -1,0 +1,7 @@
+
+{"message": "i am zaid khan", "prediction": "spam", "user_input": "no"}
+{"message": "i am zaid shaikh", "prediction": "spam", "user_input": "no"}
+{"message": "your account has been credited with 10lakhs", "prediction": "ham", "user_input": "no"}
+{"message": "your account has been credited with 10lakhs", "prediction": "spam", "user_input": "no"}
+{"message": "you have been awarded with an amount of 2lakh rupees", "prediction": "spam", "user_input": "yes"}
+{"message": "i am texting you regarding your project", "prediction": "spam", "user_input": "yes"}

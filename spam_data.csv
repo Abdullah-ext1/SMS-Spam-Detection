@@ -1,0 +1,32 @@
+message,label
+"Congratulations! You've won a free ticket!",spam
+"Hello, how are you?",ham
+"Get paid to work from home!",spam
+"Don't miss out on this opportunity!",spam
+"See you at the meeting tomorrow.",ham
+"Claim your free gift now!",spam
+"Can we reschedule our appointment?",ham
+"Win a cash prize!",spam
+"Your account has been compromised. Click here to secure it!",spam
+"Reminder: Your appointment is tomorrow at 10 AM.",ham
+"Exclusive deal just for you! Buy now!",spam
+"Let's catch up soon!",ham
+"Urgent: Update your payment information.",spam
+"Thank you for your purchase!",ham
+"Free trial of our premium service!",spam
+"Are we still on for lunch?",ham
+"Limited time offer! Act fast!",spam
+"Your subscription has been renewed.",ham
+"Congratulations! You've been selected for a special prize!",spam
+"Can you send me the report by EOD?",ham
+"Don't miss this chance to win big!",spam
+"Your feedback is important to us.",ham
+"Get a loan with low interest rates!",spam
+"Join our webinar for exclusive insights!",ham
+"Final notice: Your payment is overdue.",spam
+"Let's plan a team outing!",ham
+"Claim your free gift card now!",spam
+"Your order has been shipped!",ham
+"Act now to secure your spot!",spam
+"Thank you for being a loyal customer!",ham
+"Win a free vacation!",spam
